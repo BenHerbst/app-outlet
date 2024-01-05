@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [BenHerbst/app-outlet](https://github.com/BenHerbst/app-outlet)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|55<br/>Tools used|12/18/23 <br/>Report generated|
+|57<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -242,9 +242,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (35)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (37)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (35)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (37)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -276,6 +276,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.0.0|11/16/21|Messias Junior |MIT|N/A|
 |[font-awesome](https://www.npmjs.com/font-awesome)|v4.7.0|03/09/21|Messias Junior |OFL-1.1,MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v7.2.0|11/16/21|Messias Junior |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|02/04/21|Messias Junior |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.3.4|11/16/21|Messias Junior |MIT|N/A|
 |[loglevel](https://www.npmjs.com/loglevel)|v1.8.0|02/09/21|Messias Junior |MIT|N/A|
 |[marked](https://www.npmjs.com/marked)|v4.0.12|03/01/22|Messias Junior |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|02/01/21|Messias Junior |MIT|N/A|
